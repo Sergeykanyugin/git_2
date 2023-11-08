@@ -1,3 +1,2 @@
-git rm --cached
-
 *.рус
+~/.cache
